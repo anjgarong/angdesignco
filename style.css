@@ -21,7 +21,8 @@ body {
 		width: 960px;
 		height: 554px;
 		overflow: visible;
-    margin: auto;
+    		margin: auto;
+		margin-left: 20px;
 	}
  
 		/* Frame 1 */
