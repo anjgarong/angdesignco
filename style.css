@@ -1,0 +1,10 @@
+body {
+  background: #323232;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 8%;
+}
